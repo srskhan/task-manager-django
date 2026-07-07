@@ -33,7 +33,7 @@ filtering.
 
 ### Completed Task
 
-![Completed](images/completed_task.png)
+![Completed](images/completed-task.png)
 
 ### Filter View
 
